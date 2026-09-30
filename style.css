@@ -1,0 +1,127 @@
+body{
+    background-color: #FAF7F2;
+    font-family: sans-serif;
+}
+.comeco{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.comeco2{
+    display: flex;
+    gap: 50px;
+}
+.linha{
+    border: 0.1px solid #EFE7DB;
+
+}
+.meio{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.vermelho{
+    color: #D97757;
+}
+
+.borda{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #3F6C51;
+    border-radius: 50px;
+    color: white;
+    width: 100px;
+    height: 50px;
+    text-align: center;
+
+}
+.borda2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:#FAF7F2;
+    border-radius: 50px;
+    color: #3F6C51;
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    border: solid #3F6C51 1px;
+}
+.botoes{
+    display: flex;
+    gap: 10px;
+}
+.meio2{
+    justify-content: space-around;
+    background-color: white;
+    display: flex;
+}
+.sobre{
+    display: flex;
+    flex-direction: column;
+}
+
+.habilidades{
+    display: flex;
+    flex-direction: column;
+}
+.botoes2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #EFE7DB;
+    border-radius: 50px;
+    color: #3F6C51;
+    width: 70px;
+    height: 30px;
+}
+.fodase{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+.meio3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.imagens{
+
+    gap: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.imagem1{
+
+    display: flex;
+    flex-direction: column;
+    border: solid #EFE7DB;
+    border-radius: 10px;
+    background-color: white;
+    width: 500px;
+}
+.botao3{
+    
+display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#EFE7DB;
+    border-radius: 50px;
+    color: #8B4B3A;
+    width: 80px;
+    height: 30px;
+}
+ .final{
+    background-color: #2B2A28;
+    color: #C9BDA9;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+ }
